@@ -1,0 +1,1 @@
+Simple number guessing game in React. Players try to guess a randomly generated number within a certain range, receiving feedback on whether their guess is too high or too low. The game features a user-friendly interface and real-time updates. It's a fun project to demonstrate basic React concepts like state and event handling.
